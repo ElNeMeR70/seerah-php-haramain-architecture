@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/seerah-php-haramain-architecture",
+  "description": "Two Holy Mosques (Al-Haramain) Historical Expansion & Capacity Modeler (مؤرخ عمارة وتوسعات المسجد الحرام والمسجد النبوي)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
